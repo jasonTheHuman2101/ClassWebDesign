@@ -7,3 +7,10 @@ span{
     color:cyan;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.mainContentHolder{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border: 1px solid black;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7237871.jpg&f=1&nofb=1);
+}
